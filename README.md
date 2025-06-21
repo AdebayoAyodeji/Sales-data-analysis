@@ -58,6 +58,22 @@ Below is the data after cleaning;
   ![Power BI Desktop Image](https://github.com/user-attachments/assets/5c51800e-76c4-41f3-b80d-9907ca77e6ba)
 
 ## Result
-After the cleaning and data manipulation process. I came up with visuals to clearly answer the business questions;
+After the cleaning and data manipulation process. I came up with visuals to clearly answer the business questions
+
+- Monthly Revenue Trend - 2011
+![Monthly Revenue Trend](https://github.com/user-attachments/assets/61ce75fe-9d5f-4848-b87f-348a76e6dee4)
+
+- Top 10 Customers By Revenue
+![Top 10 customers by revenue](https://github.com/user-attachments/assets/48cf3e85-f75f-45aa-87ea-dcfec86426a4)
+
+- Top 10 Revenue-Generating Countries
+![top 10 country by revenue ](https://github.com/user-attachments/assets/7dffcc2b-4c1d-4afd-819f-e7478214135b)
+
+- Product Demand By Region
+![Product demand by country](https://github.com/user-attachments/assets/f7e24d06-bb20-47e0-96b5-f8d016178548)
+
+- Total Revenue Generated
+![Total Revenue ](https://github.com/user-attachments/assets/b83258cd-23a8-4e15-80d2-fbd638cef88f)
+
 
 
