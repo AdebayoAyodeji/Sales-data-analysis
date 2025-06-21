@@ -58,7 +58,7 @@ Below is the data after cleaning;
   ![Power BI Desktop Image](https://github.com/user-attachments/assets/5c51800e-76c4-41f3-b80d-9907ca77e6ba)
 
 ## Result
-After the cleaning and data manipulation process. I came up with visuals to clearly answer the business questions
+After the cleaning and data manipulation process. I came up with visuals to clearly answer the business questions Using Power BI.
 
 - Monthly Revenue Trend - 2011
 ![Monthly Revenue Trend](https://github.com/user-attachments/assets/61ce75fe-9d5f-4848-b87f-348a76e6dee4)
@@ -74,6 +74,31 @@ After the cleaning and data manipulation process. I came up with visuals to clea
 
 - Total Revenue Generated
 ![Total Revenue ](https://github.com/user-attachments/assets/b83258cd-23a8-4e15-80d2-fbd638cef88f)
+
+1. Revenue trends show low sales in Q1 & Q2, a spike from September to November, then a drop in December. However, a decline is observed in December.
+2. Germany led with $81B in revenue and the highest quantity sold, followed by France and EIRE, while Australia, Sweden, and Japan generated the least revenue.
+3. Customer 14646 is the top revenue-generating customer, contributing $280,206.02, followed by Customer 14911 with $143,825.06. The lowest contributors are Customers 13263
+   and 14606
+5. European countries appeared to be the most dominating region in terms of product demand.
+
+## Recommendations:
+
+- Consider expanding product offerings for the next festive season and introduce seasonal discounts to boost sales. A targeted market survey in low-revenue months would
+  identify products that better meet customer needs.
+
+- Focus on offering targeted discounts and quality products that match high-value customers’ preferences. Refine product strategies based on regional demand to boost sales
+  in underperforming markets and enhance overall performance.
+
+  ## Reference;
+Stack overflow
+
+r/datascience. Reddit
+
+  
+  
+
+
+
 
 
 
