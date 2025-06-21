@@ -57,3 +57,7 @@ Created a revenue column;
 Below is the data after cleaning;
   ![Power BI Desktop Image](https://github.com/user-attachments/assets/5c51800e-76c4-41f3-b80d-9907ca77e6ba)
 
+## Result
+After the cleaning and data manipulation process. I came up with visuals to clearly answer the business questions;
+
+
