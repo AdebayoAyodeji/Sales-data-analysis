@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project is aimed at providing insights into the sales of a growing online retail store, looking to identify revenue drivers and performance trends from both operational and marketing perspectives.
+This project aims to provide insights into the sales performance of a growing online retail store by identifying revenue drivers and performance trends from both operational and marketing perspectives, enabling business leaders to plan strategically for the year ahead.
 
 ## Business Objectives:
 
