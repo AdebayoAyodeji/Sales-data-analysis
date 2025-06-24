@@ -89,10 +89,8 @@ After the cleaning and data manipulation process. I came up with visuals to clea
 - Focus on offering targeted discounts and quality products that match high-value customers’ preferences. Refine product strategies based on regional demand to boost sales
   in underperforming markets and enhance overall performance.
 
-  ## Reference;
-Stack overflow
 
-r/datascience. Reddit
+
 
   
   
